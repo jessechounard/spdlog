@@ -1,12 +1,12 @@
 .{
     .name = .spdlog,
-    .version = "1.15.1",
+    .version = "1.15.2",
     .minimum_zig_version = "0.14.0",
     .fingerprint = 0x19cef80094ea6f4,
     .dependencies = .{
         .spdlog = .{
-            .url = "https://github.com/gabime/spdlog/archive/refs/tags/v1.15.1.tar.gz",
-            .hash = "N-V-__8AACsfEgCkfDtpMeuVL-wCnzLvznKU7UuYFhH2Daz8",
+            .url = "https://github.com/gabime/spdlog/archive/refs/tags/v1.15.2.tar.gz",
+            .hash = "N-V-__8AAOMjEgDduthLeLJIY2oZNHzJYMcrqZRQxJR9H7Zc",
         },
     },
     .paths = .{
